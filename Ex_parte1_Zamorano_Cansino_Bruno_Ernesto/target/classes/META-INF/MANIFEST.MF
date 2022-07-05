@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: bruno.zamorano
+Build-Jdk: 17.0.2
+Implementation-Title: Ex_parte1_Zamorano_Cansino_Bruno_Ernesto
+Implementation-Version: 0.0.1
+Implementation-Vendor-Id: com.example.parte1
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/Ex_parte1_Zamorano_Cansino_Bruno_Ernesto
+Created-By: Maven Integration for Eclipse
+
